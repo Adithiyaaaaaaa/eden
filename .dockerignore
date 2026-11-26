@@ -1,0 +1,11 @@
+.git
+.gitignore
+node_modules
+dist
+.dist
+backend/.venv
+backend/.env
+backend/eden.db
+**/__pycache__
+outputs
+work

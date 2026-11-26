@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.dist/
+backend/eden.db
+backend/.env
+backend/.venv/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+work/
+outputs/
